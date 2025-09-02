@@ -29,10 +29,6 @@ It is designed to run in Google Colab with GPU acceleration for real-time perfor
 - Select Runtime > Change runtime type > GPU
 
 ## 2. Clone Repository
-```bash
-!git clone https://github.com/mikel-brostrom/Yolov8_DeepSORT.git
-%cd Yolov8_DeepSORT
-```
 
 ## 3. Install Dependencies
 ```bash
